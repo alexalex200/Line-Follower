@@ -1,6 +1,6 @@
 # Turbo Fabi - Line Follower
 
-![gif](./media/Gif.gif)  
+![gif](./Media/Gif.gif)  
 [Watch the full video here!](https://youtu.be/HdzTXu5iEFA)
 
 ## Project Overview 🤖
