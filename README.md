@@ -53,6 +53,6 @@ Contributions from the following individuals have made Turbo Fabi possible:
 Turbo Fabi completed the circuit with an impressive best time of **13.551 seconds**.
  
 ## Media 📸
-![pic1](./Media/Pic1.png)
-![pic2](./Media/Pic2.png)
-![pic3](./Media/Pic3.png)
+![pic1](./Media/pic1.jpg)
+![pic2](./Media/pic2.jpg)
+![pic3](./Media/pic3.jpg)
